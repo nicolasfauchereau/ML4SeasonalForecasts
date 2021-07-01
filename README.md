@@ -3,9 +3,12 @@ A set of Python modules and Jupyter notebook exploring the potential of Machine 
 
 ## Background 
 
+All the code, notebooks and modules have been developped as part of the MBIE project C01X1813 ("Machine Learning approaches to downscale seasonal climate forecasts for
+New Zealand") 
+
 ## Organisation 
 
-This repository is organized in different sections, each covering a distinct aspect of the processing and modeling pipelines allowing to explore Machine Learning approaches for the downscaling of monthly and seasonal climate forecasts from Atmospheric and Coupled General Circulation Models (GCMs) 
+This repository is organized in different sections, each covering a distinct aspect of the processing and modeling pipelines allowing to explore Machine Learning approaches for the downscaling of monthly and seasonal climate forecasts from Atmospheric and Coupled General Circulation Models (GCMs), as well as from observational datasets (such as realtime Sea Surface Temperature datasets) and climate indices. 
 
 #### download
 
