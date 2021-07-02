@@ -1,4 +1,4 @@
-# ClimateBench
+# SeasonalBench
 A set of Python modules and Jupyter notebook exploring the potential of Machine Learning for downscaling seasonal climate forecast models
 
 ## Background 
