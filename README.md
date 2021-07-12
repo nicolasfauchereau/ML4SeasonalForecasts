@@ -1,5 +1,5 @@
-# SeasonalBench
-A set of Python modules and Jupyter notebook exploring the potential of Machine Learning for downscaling seasonal climate forecast models
+# ML4SeasonalForecasts
+A set of Python modules and Jupyter notebook exploring the potential of Machine Learning for downscaling and bias-correcting seasonal climate forecast models
 
 ## Background 
 
@@ -41,9 +41,6 @@ This module, and the associated notebooks, explore Deep Learning  (including Con
 #### statistical 
 
 This module, and the associated notebooks, is devoted to purely 'statistical' approaches, where the predictors are taken from realtime or near-realtime observational datasets instead of derived from the GCMs forecasts. 
-
-
-
 
 
 
