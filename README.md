@@ -8,7 +8,7 @@ New Zealand")
 
 ## Organisation 
 
-This repository is organized in different sections, each covering a distinct aspect of the processing and modeling pipelines allowing to explore Machine Learning approaches for the downscaling of monthly and seasonal climate forecasts from Atmospheric and Coupled General Circulation Models (GCMs), as well as from observational datasets (such as realtime Sea Surface Temperature datasets) and climate indices. 
+This repository is organized in different sections, each covering a distinct aspect of the processing and modeling pipelines allowing to explore Machine Learning approaches for the downscaling of monthly and seasonal climate forecasts from Atmospheric and Coupled General Circulation Models (GCMs), as well as from observational datasets (such as realtime Sea Surface Temperature datasets) and climate indices. This structure is reflected both in the folder 'notebooks' (containing the example notebooks) and 'src' (containing the Python modules themselves) 
 
 #### download
 
