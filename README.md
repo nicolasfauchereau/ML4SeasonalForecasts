@@ -1,5 +1,14 @@
 # ML4SeasonalForecasts
-A set of Python modules and Jupyter notebook exploring the potential of Machine Learning for downscaling and bias-correcting seasonal climate forecast models
+A set of Python modules and Jupyter notebook exploring the potential of Machine Learning for downscaling and bias-correcting seasonal climate forecast models (General Circulation Models, of *GCMs*). This project (see *Background*) primarily leverages the 8 GCMs available on the [Copernicus Data Store](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset&keywords=((%20%22Product%20type:%20Seasonal%20forecasts%22%20))): 
+
+- ECMWF (SEAS5)
+- UKMO (GloSea6-GC3.2)
+- Meteo-France (Météo-France System 7)
+- DWD (GCFS2.1)
+- CMCC (CMCC-SPS3.5)
+- NCEP (CFSv2)
+- JMA (JMA/MRI-CPS2)
+- ECCC (CanSIPSv2)
 
 ## Background 
 
